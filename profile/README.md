@@ -1,3 +1,6 @@
+
+SkillSphere adalah aplikasi yang memberikan rekomendasi pelatihan berdasarkan skill yang ingin kita ingin pelajari dan nantinya akan muncul link pelatihan yang kita butuhkan.
+
 Halo Semuanya! Kita dari tim LAI25-SM064. Tim kita terdiri dari 4 anggota, antara lain:
 | **Laskar AI ID**  | **Name** | **University** | **Github** |
 | ------------- | -------------  | -------------  | ------------- | 
