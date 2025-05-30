@@ -3,8 +3,6 @@ SkillSphere adalah aplikasi yang memberikan rekomendasi pelatihan berdasarkan sk
 <p align="center">
   <img src="https://github.com/Skill-Sphere-Group/asset/blob/main/SkillSpher.png" />
 </p>
-
-
 Halo Semuanya! Kita dari tim LAI25-SM064. Tim kita terdiri dari 4 anggota, antara lain:
 | **Laskar AI ID**  | **Name** | **University** | **Github** |
 | ------------- | -------------  | -------------  | ------------- | 
